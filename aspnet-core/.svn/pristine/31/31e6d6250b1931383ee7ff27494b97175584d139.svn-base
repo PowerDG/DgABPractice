@@ -1,0 +1,18 @@
+﻿{
+  "ConnectionStrings": {
+    "Default": "Server=192.168.1.21; Database=RQDDDCoreDb;user id=root;pwd=12345;"
+  },
+    "App": {
+        "ServerRootAddress": "http://localhost:21021/",
+        "ClientRootAddress": "http://localhost:4200/",
+        "CorsOrigins": "http://localhost:4200,http://localhost:8080,http://localhost:8081"
+    },
+    "Authentication": {
+        "JwtBearer": {
+            "IsEnabled": "true",
+            "SecurityKey": "RQCore_C421AAEE0D114E9C",
+            "Issuer": "RQCore",
+            "Audience": "RQCore"
+        }
+    }
+}
