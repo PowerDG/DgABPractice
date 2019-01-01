@@ -1,0 +1,11 @@
+E:\DgProject\DgTest\UeTest\UEditor\UEditor\bin\Debug\netcoreapp2.1\UEditor.deps.json
+E:\DgProject\DgTest\UeTest\UEditor\UEditor\bin\Debug\netcoreapp2.1\UEditor.runtimeconfig.json
+E:\DgProject\DgTest\UeTest\UEditor\UEditor\bin\Debug\netcoreapp2.1\UEditor.runtimeconfig.dev.json
+E:\DgProject\DgTest\UeTest\UEditor\UEditor\bin\Debug\netcoreapp2.1\UEditor.dll
+E:\DgProject\DgTest\UeTest\UEditor\UEditor\obj\Debug\netcoreapp2.1\UEditor.csprojAssemblyReference.cache
+E:\DgProject\DgTest\UeTest\UEditor\UEditor\obj\Debug\netcoreapp2.1\UEditor.csproj.CoreCompileInputs.cache
+E:\DgProject\DgTest\UeTest\UEditor\UEditor\obj\Debug\netcoreapp2.1\UEditor.RazorAssemblyInfo.cache
+E:\DgProject\DgTest\UeTest\UEditor\UEditor\obj\Debug\netcoreapp2.1\UEditor.RazorAssemblyInfo.cs
+E:\DgProject\DgTest\UeTest\UEditor\UEditor\obj\Debug\netcoreapp2.1\UEditor.AssemblyInfoInputs.cache
+E:\DgProject\DgTest\UeTest\UEditor\UEditor\obj\Debug\netcoreapp2.1\UEditor.AssemblyInfo.cs
+E:\DgProject\DgTest\UeTest\UEditor\UEditor\obj\Debug\netcoreapp2.1\UEditor.RazorTargetAssemblyInfo.cache
