@@ -163,11 +163,28 @@ namespace RQCore.Web.Host.Controllers
             //ObjectMapper.Map<User>(user);
             //      {
             //var user = await Repository.GetAllIncluding(x => x.Roles).FirstOrDefaultAsync(x => x.Id == id);
+// trafficLog
+// 括0在途中、1已揽收、2疑难、3已签收、4退签、5同城派送中、6退回、7转单等7个状态，其中4-7需要另外开通才有效
+//  StatuesNo  displayName   description  
 
-
+struct trafficLogDict
+{
+//    public string Status ;
+   
+   public int  StatueNo ;
+   public string displayName;
+   public string description;
+}; 
             DgDict.Add("CurrentLogin", Mapper.Map<CreateUserDto>(user)
           //ObjectMapper.Map<UserDto> (loginResult.User)
           );
+
+// InspectionState	int	default 0	审批状态,0-已申请,1-通过,2-驳回
+
+
+
+
+           DgDict.Add("trafficLogDict",);
             
             //IList<object> DgDict = new List<object>();
             var allPermissions = PermissionManager.GetAllPermissions();
