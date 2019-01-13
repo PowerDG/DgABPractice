@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.AutoMapper" Version="0.12.0" />
+    <ProjectReference Include="..\DGCorERM.API.Application.Contracts\DGCorERM.API.Application.Contracts.csproj" />
+    <ProjectReference Include="..\DGCorERM.API.Domain\DGCorERM.API.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

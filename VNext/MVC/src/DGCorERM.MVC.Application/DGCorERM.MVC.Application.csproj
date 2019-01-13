@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>DGCorERM.MVC</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DGCorERM.MVC.Domain\DGCorERM.MVC.Domain.csproj" />
+    <PackageReference Include="Volo.Abp.Identity.Application" Version="0.12.0" />
+  </ItemGroup>
+
+</Project>
