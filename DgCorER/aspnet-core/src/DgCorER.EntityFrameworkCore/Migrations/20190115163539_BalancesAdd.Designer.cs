@@ -3,15 +3,17 @@ using System;
 using DgCorER.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 namespace DgCorER.Migrations
 {
     [DbContext(typeof(DgCorERDbContext))]
-    partial class DgCorERDbContextModelSnapshot : ModelSnapshot
+    [Migration("20190115163539_BalancesAdd")]
+    partial class BalancesAdd
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
