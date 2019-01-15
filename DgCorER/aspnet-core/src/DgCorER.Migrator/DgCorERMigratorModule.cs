@@ -1,11 +1,13 @@
 using Microsoft.Extensions.Configuration;
 using Castle.MicroKernel.Registration;
+using System;
 using Abp.Events.Bus;
 using Abp.Modules;
 using Abp.Reflection.Extensions;
 using DgCorER.Configuration;
 using DgCorER.EntityFrameworkCore;
 using DgCorER.Migrator.DependencyInjection;
+
 
 namespace DgCorER.Migrator
 {
