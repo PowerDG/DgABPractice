@@ -7,12 +7,12 @@ namespace DgCorER.EntityFrameworkCore
     {
         public static void Configure(DbContextOptionsBuilder<DgCorERDbContext> builder, string connectionString)
         {
-            builder.UseNpgsql(connectionString); 
+            builder.UseSqlServer(connectionString);
         }
 
         public static void Configure(DbContextOptionsBuilder<DgCorERDbContext> builder, DbConnection connection)
         {
-            builder.UseNpgsql(connection);
+            builder.UseSqlServer(connection);
         }
     }
 }
