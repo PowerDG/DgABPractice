@@ -1,0 +1,14 @@
+E:\GitHub\github.PowerDG\DgABPractice\DDDg2019\EF-Test\EF2019\DgDBFirst\bin\Debug\netcoreapp2.1\DgDBFirst.deps.json
+E:\GitHub\github.PowerDG\DgABPractice\DDDg2019\EF-Test\EF2019\DgDBFirst\bin\Debug\netcoreapp2.1\DgDBFirst.runtimeconfig.json
+E:\GitHub\github.PowerDG\DgABPractice\DDDg2019\EF-Test\EF2019\DgDBFirst\bin\Debug\netcoreapp2.1\DgDBFirst.runtimeconfig.dev.json
+E:\GitHub\github.PowerDG\DgABPractice\DDDg2019\EF-Test\EF2019\DgDBFirst\bin\Debug\netcoreapp2.1\DgDBFirst.dll
+E:\GitHub\github.PowerDG\DgABPractice\DDDg2019\EF-Test\EF2019\DgDBFirst\obj\Debug\netcoreapp2.1\DgDBFirst.csprojAssemblyReference.cache
+E:\GitHub\github.PowerDG\DgABPractice\DDDg2019\EF-Test\EF2019\DgDBFirst\obj\Debug\netcoreapp2.1\DgDBFirst.csproj.CoreCompileInputs.cache
+E:\GitHub\github.PowerDG\DgABPractice\DDDg2019\EF-Test\EF2019\DgDBFirst\obj\Debug\netcoreapp2.1\DgDBFirst.RazorAssemblyInfo.cache
+E:\GitHub\github.PowerDG\DgABPractice\DDDg2019\EF-Test\EF2019\DgDBFirst\obj\Debug\netcoreapp2.1\DgDBFirst.RazorAssemblyInfo.cs
+E:\GitHub\github.PowerDG\DgABPractice\DDDg2019\EF-Test\EF2019\DgDBFirst\obj\Debug\netcoreapp2.1\DgDBFirst.AssemblyInfoInputs.cache
+E:\GitHub\github.PowerDG\DgABPractice\DDDg2019\EF-Test\EF2019\DgDBFirst\obj\Debug\netcoreapp2.1\DgDBFirst.AssemblyInfo.cs
+E:\GitHub\github.PowerDG\DgABPractice\DDDg2019\EF-Test\EF2019\DgDBFirst\obj\Debug\netcoreapp2.1\DgDBFirst.RazorTargetAssemblyInfo.cache
+E:\GitHub\github.PowerDG\DgABPractice\DDDg2019\EF-Test\EF2019\DgDBFirst\bin\Debug\netcoreapp2.1\DgDBFirst.pdb
+E:\GitHub\github.PowerDG\DgABPractice\DDDg2019\EF-Test\EF2019\DgDBFirst\obj\Debug\netcoreapp2.1\DgDBFirst.dll
+E:\GitHub\github.PowerDG\DgABPractice\DDDg2019\EF-Test\EF2019\DgDBFirst\obj\Debug\netcoreapp2.1\DgDBFirst.pdb
